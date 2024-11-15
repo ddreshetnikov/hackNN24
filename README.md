@@ -4,7 +4,7 @@
 
 В скрипте script_qasm_QB.py реализован процесс предсказания моделью новых меток отзывов через эмуляцию квантового слоя обученной нейросети на платформе QBoard. 
 
-Для запуска кода в блокноте .ipynb потребуются файлы task-3-dataset.csv, expanded_df_3rd_task.csv и stopWords.txt
+Для запуска кода в блокноте .ipynb потребуются файлы task-3-dataset.csv, expanded_df_3rd_task.csv, stopWords.txt, test50.csv
 
 Для запуска скрипта в одной папке с ним должны находиться файлы bOfW.pkl, model.pkl, stopWords.txt
 
